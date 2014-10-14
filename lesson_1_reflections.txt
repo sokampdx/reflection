@@ -1,0 +1,23 @@
+1.
+The diff help see only where the diffrences are and eliminate the need to look at every lines.
+
+2.
+You can see the changes and go back if there is something wrong. You can also see how your development going and get better management of your time.
+
+
+3.
+Pro is that the commit can be a logical change so that when you need to reverse the change, it is easier. Con is that people may forget and don't commit any changes at all for a long time and thus defeat the purpose of version control.
+
+4.
+Allow multiple files in one commit because these files are related and it doesn't make sense to separate them.
+
+5.
+Use git log to find the change in question and use git diff to compare with a previous commit to see what was changed.
+
+6.
+You can check when the bug is introduce and use diff to find the bug easier.
+
+7.
+my own projects.
+
+8.
