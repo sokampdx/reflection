@@ -1,0 +1,8 @@
+Lesson 2
+
+1.
+Staging area put file that is ready for the next commit. working directory is only a place holder for all the files. The value of staging area is to let user put more than one file into a single commit. 
+
+
+
+
