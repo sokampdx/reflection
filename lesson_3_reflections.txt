@@ -6,4 +6,6 @@ fork is a clone but only happen on github
 clone is a copy of a repository
 branch is deviation on a single repository
 
+using local so that changes can be review before push into master.
+
 
