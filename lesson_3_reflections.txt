@@ -1,1 +1,9 @@
 Lesson 3 reflection
+
+There are may be changes that you don't want github to update like you are adding new function that you are not sure about.
+
+fork is a clone but only happen on github
+clone is a copy of a repository
+branch is deviation on a single repository
+
+
