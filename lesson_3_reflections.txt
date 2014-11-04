@@ -8,4 +8,5 @@ branch is deviation on a single repository
 
 using local so that changes can be review before push into master.
 
-
+Having both collaborate working on different module.
+No conflict what so ever to consider. The project will limit how many people working on it.
