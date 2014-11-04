@@ -10,3 +10,6 @@ using local so that changes can be review before push into master.
 
 Having both collaborate working on different module.
 No conflict what so ever to consider. The project will limit how many people working on it.
+
+make changes in sepearte branch is a way to make sure multiple changes in a same file won't have conflict before it merged into the master.
+
